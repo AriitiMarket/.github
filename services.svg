@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="280" viewBox="0 0 860 280" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="240" viewBox="0 0 860 240" fill="none">
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="serv-bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -25,7 +25,7 @@
     }
     .card-title {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      font-size: 14px;
+      font-size: 13.5px;
       font-weight: 700;
       letter-spacing: 0.5px;
       fill: #FFFFFF;
@@ -35,7 +35,6 @@
       font-size: 11px;
       font-weight: 400;
       fill: #94A3B8;
-      line-height: 1.5;
     }
     .tag-badge {
       font-family: 'JetBrains Mono', monospace;
@@ -46,8 +45,8 @@
   </style>
 
   <!-- Base Container -->
-  <rect width="860" height="280" rx="14" fill="url(#serv-bg)" />
-  <rect x="1" y="1" width="858" height="278" rx="13" fill="none" stroke="#162E56" stroke-width="1.5" />
+  <rect width="860" height="240" rx="14" fill="url(#serv-bg)" />
+  <rect x="1" y="1" width="858" height="238" rx="13" fill="none" stroke="#162E56" stroke-width="1.5" />
 
   <!-- Top Strip -->
   <g transform="translate(30, 28)">
@@ -55,50 +54,45 @@
     <text x="14" y="3.5" class="header-title">CORE BUSINESS PILLARS &amp; TECHNOLOGY CAPABILITIES</text>
   </g>
 
-  <!-- 4 Service Cards Grid (2x2) -->
-  <g transform="translate(30, 52)">
+  <!-- 3 Service Cards Grid (3 Columns) -->
+  <g transform="translate(24, 50)">
     
-    <!-- CARD 1: Software & Mobile Engineering -->
+    <!-- CARD 1: Full-Stack Web Development -->
     <g transform="translate(0, 0)">
-      <rect width="385" height="96" rx="8" fill="#0A1630" stroke="url(#card-border)" stroke-width="1" />
-      <g transform="translate(18, 22)">
-        <text class="card-title">💻  Custom Software &amp; Mobile Development</text>
-        <text y="24" class="card-desc">End-to-end full-stack web platforms, cross-platform mobile apps</text>
-        <text y="40" class="card-desc">(iOS &amp; Android), high-throughput REST APIs, and microservices.</text>
-        <text y="60" class="tag-badge">Next.js • React Native • NestJS • Django • TypeScript</text>
+      <rect width="258" height="158" rx="8" fill="#0A1630" stroke="url(#card-border)" stroke-width="1" />
+      <g transform="translate(16, 26)">
+        <text class="card-title">💻 Custom Software &amp; Web</text>
+        <text y="26" class="card-desc">End-to-end web platforms,</text>
+        <text y="44" class="card-desc">scalable microservices, and</text>
+        <text y="62" class="card-desc">high-throughput REST APIs.</text>
+        <text y="92" class="tag-badge">Next.js • React • NestJS</text>
+        <text y="108" class="tag-badge">Django • PostgreSQL</text>
       </g>
     </g>
 
-    <!-- CARD 2: Network Infrastructure & Maintenance -->
-    <g transform="translate(415, 0)">
-      <rect width="385" height="96" rx="8" fill="#0A1630" stroke="url(#card-border)" stroke-width="1" />
-      <g transform="translate(18, 22)">
-        <text class="card-title">📡  Network Installation &amp; IT Infrastructure</text>
-        <text y="24" class="card-desc">Structured network cabling, router and managed switch setups,</text>
-        <text y="40" class="card-desc">enterprise Wi-Fi deployment, server rack cabling, and maintenance.</text>
-        <text y="60" class="tag-badge">Structured Cabling • LAN / WLAN • Rack Systems • VPNs</text>
+    <!-- CARD 2: Mobile App Engineering -->
+    <g transform="translate(276, 0)">
+      <rect width="258" height="158" rx="8" fill="#0A1630" stroke="url(#card-border)" stroke-width="1" />
+      <g transform="translate(16, 26)">
+        <text class="card-title">📱 Mobile Applications</text>
+        <text y="26" class="card-desc">Cross-platform iOS and Android</text>
+        <text y="44" class="card-desc">applications with offline caching,</text>
+        <text y="62" class="card-desc">geolocation, and native sensors.</text>
+        <text y="92" class="tag-badge">React Native • Expo</text>
+        <text y="108" class="tag-badge">iOS &amp; Android Native</text>
       </g>
     </g>
 
-    <!-- CARD 3: Digital Commerce & Marketplaces -->
-    <g transform="translate(0, 112)">
-      <rect width="385" height="96" rx="8" fill="#0A1630" stroke="url(#card-border)" stroke-width="1" />
-      <g transform="translate(18, 22)">
-        <text class="card-title">🛒  Digital Commerce &amp; Ecosystems</text>
-        <text y="24" class="card-desc">Multi-seller e-commerce marketplaces, merchant inventory control,</text>
-        <text y="40" class="card-desc">rider dispatch coordination, payment gateways, and POS solutions.</text>
-        <text y="60" class="tag-badge">Ariiti Market • Multi-Vendor • Courier Dispatch • POS</text>
-      </g>
-    </g>
-
-    <!-- CARD 4: Enterprise Solutions & Tech Maintenance -->
-    <g transform="translate(415, 112)">
-      <rect width="385" height="96" rx="8" fill="#0A1630" stroke="url(#card-border)" stroke-width="1" />
-      <g transform="translate(18, 22)">
-        <text class="card-title">🛡️  Business Technology &amp; IT Operations</text>
-        <text y="24" class="card-desc">Operational inventory systems, cafeteria POS ordering platforms,</text>
-        <text y="40" class="card-desc">relational database design, system audits, and scheduled maintenance.</text>
-        <text y="60" class="tag-badge">Stock Systems • DB Optimization • System Health • Cloud</text>
+    <!-- CARD 3: Digital Commerce & Enterprise Solutions -->
+    <g transform="translate(552, 0)">
+      <rect width="258" height="158" rx="8" fill="#0A1630" stroke="url(#card-border)" stroke-width="1" />
+      <g transform="translate(16, 26)">
+        <text class="card-title">🛒 Digital Commerce &amp; POS</text>
+        <text y="26" class="card-desc">Multi-seller marketplace engines,</text>
+        <text y="44" class="card-desc">merchant inventory control, POS</text>
+        <text y="62" class="card-desc">systems, and courier dispatch.</text>
+        <text y="92" class="tag-badge">Ariiti Market • Inventory</text>
+        <text y="108" class="tag-badge">POS • Dispatch Logic</text>
       </g>
     </g>
 

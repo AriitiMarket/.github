@@ -19,11 +19,6 @@
       <stop offset="100%" stop-color="#4F46E5" />
     </linearGradient>
 
-    <linearGradient id="node-glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00D2FF" />
-      <stop offset="100%" stop-color="#38BDF8" />
-    </linearGradient>
-
     <!-- Ambient Core Glow -->
     <radialGradient id="core-glow" cx="50%" cy="45%" r="50%">
       <stop offset="0%" stop-color="#0066FF" stop-opacity="0.3" />
@@ -47,7 +42,7 @@
   <!-- Subtle Outer Border -->
   <rect x="2" y="2" width="496" height="496" rx="98" fill="none" stroke="#162E56" stroke-width="3" />
 
-  <!-- Geometric Modern Monogram Emblem "A" & Tech Node Network -->
+  <!-- Geometric Modern Monogram Emblem "A" & Tech Node -->
   <g transform="translate(250, 205)">
     <!-- Left Angled Pillar -->
     <path d="M 0 -130 L -95 70 L -45 70 L 0 -30 Z" fill="url(#accent-cyan)" filter="url(#neon-glow)" />
@@ -55,14 +50,14 @@
     <!-- Right Angled Pillar -->
     <path d="M 0 -130 L 95 70 L 45 70 L 0 -30 Z" fill="url(#accent-indigo)" filter="url(#neon-glow)" />
 
-    <!-- Intersecting Crossbar (Network Data Bridge) -->
+    <!-- Intersecting Crossbar -->
     <path d="M -60 15 L 60 15 L 50 45 L -50 45 Z" fill="#FFFFFF" opacity="0.95" />
 
     <!-- Central Floating Connectivity Node -->
     <circle cx="0" cy="30" r="14" fill="#050916" stroke="#00D2FF" stroke-width="4" />
     <circle cx="0" cy="30" r="6" fill="#00D2FF" />
 
-    <!-- Geometric Network Satellite Nodes -->
+    <!-- Satellite Nodes -->
     <circle cx="0" cy="-130" r="7" fill="#00D2FF" filter="url(#neon-glow)" />
     <circle cx="-95" cy="70" r="7" fill="#0066FF" />
     <circle cx="95" cy="70" r="7" fill="#6366F1" />
@@ -82,6 +77,6 @@
     <text y="32" font-family="'JetBrains Mono', monospace" font-weight="600" font-size="12" letter-spacing="3" fill="#00D2FF">TECHNOLOGIES &amp; DIGITAL SOLUTIONS</text>
     
     <!-- Scope Highlights -->
-    <text y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="11" letter-spacing="1.5" fill="#94A3B8">SOFTWARE • NETWORKING • INFRASTRUCTURE</text>
+    <text y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="11" letter-spacing="1.5" fill="#94A3B8">SOFTWARE • MOBILE • DIGITAL COMMERCE</text>
   </g>
 </svg>

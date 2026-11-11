@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- DYNAMIC TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Ariiti+Technologies+%7C+Engineering+Modern+Digital+Solutions;Full-Stack+Software+Development+%E2%80%A2+Mobile+Applications;Network+Installation+%E2%80%A2+Structured+Cabling+%E2%80%A2+IT+Maintenance;Architecting+Ariiti+Market+%E2%80%94+Multi-Vendor+Commerce+Ecosystem;Delivering+Reliable+Technology+Solutions+for+Growing+Businesses" alt="Ariiti Technologies Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Ariiti+Technologies+%7C+Engineering+Modern+Digital+Solutions;Full-Stack+Software+Development+%E2%80%A2+Mobile+Applications;Architecting+Ariiti+Market+%E2%80%94+Multi-Vendor+Commerce+Ecosystem;Delivering+Reliable+Technology+Solutions+for+Growing+Businesses;Clean+Architecture+%E2%80%A2+High+Performance+%E2%80%A2+Scalable+Cloud+Systems" alt="Ariiti Technologies Tagline" />
 
 <br/><br/>
 
@@ -41,11 +41,11 @@
     </td>
     <td width="20"></td>
     <td valign="top">
-      <h4>Engineering Tomorrow's Digital &amp; IT Infrastructure</h4>
-      <p><strong>Ariiti Technologies</strong> is an emerging technology company focused on delivering software engineering, digital business solutions, and professional network installation and IT maintenance services. Based in Ethiopia, our mission is to build scalable, reliable software platforms and high-integrity network infrastructure that empower businesses to operate efficiently in an increasingly digital world.</p>
+      <h4>Engineering Scalable Digital Products &amp; Enterprise Platforms</h4>
+      <p><strong>Ariiti Technologies</strong> is an emerging technology company focused on delivering modern software engineering, cross-platform mobile applications, and digital commerce solutions. Based in Ethiopia, our mission is to build scalable, reliable software platforms that empower businesses and entrepreneurs to operate efficiently in an increasingly digital economy.</p>
       <ul>
-        <li>🎯 <strong>Vision:</strong> To become a recognized standard for dependable software architectures, digital commerce platforms, and robust network installations.</li>
-        <li>💡 <strong>Mission:</strong> Turning real-world operational challenges into clean, accessible digital platforms and high-availability IT systems.</li>
+        <li>🎯 <strong>Vision:</strong> To become a recognized standard for dependable software architectures, multi-vendor commerce ecosystems, and business operational tools.</li>
+        <li>💡 <strong>Mission:</strong> Turning real-world operational challenges into clean, accessible digital platforms with measurable business impact.</li>
       </ul>
     </td>
   </tr>
@@ -65,44 +65,31 @@
 
 <table width="100%" border="0" cellpadding="12" cellspacing="0">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #162E56; border-radius: 8px; background: #071126;">
-      <h4>💻 1. Custom Software &amp; Mobile Development</h4>
-      <p>We architect and engineer production-ready web and mobile platforms tailored to modern operational demands:</p>
+    <td width="33%" valign="top" style="border: 1px solid #162E56; border-radius: 8px; background: #071126;">
+      <h4>💻 1. Custom Software &amp; Web Engineering</h4>
+      <p>We architect and engineer production-ready web platforms and enterprise backends:</p>
       <ul>
-        <li><strong>Full-Stack Web Platforms:</strong> High-performance frontends built with Next.js, React, TypeScript, and Tailwind CSS.</li>
-        <li><strong>Cross-Platform Mobile Apps:</strong> Fluid iOS and Android applications built on React Native &amp; Expo with offline caching.</li>
-        <li><strong>Backend Microservices &amp; APIs:</strong> Modular backend architectures built with NestJS, Django REST Framework, Node.js, and Laravel.</li>
-        <li><strong>Database Engineering:</strong> Scalable relational schemas (PostgreSQL, MySQL) and document collections (MongoDB) with Prisma ORM.</li>
+        <li><strong>Full-Stack Web Platforms:</strong> Frontends built with Next.js, React, TypeScript, and Tailwind CSS.</li>
+        <li><strong>Backend Microservices:</strong> Modular architectures using NestJS, Django REST, Node.js, and Laravel.</li>
+        <li><strong>Database Engineering:</strong> Scalable relational schemas (PostgreSQL, MySQL) and document collections (MongoDB).</li>
       </ul>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #162E56; border-radius: 8px; background: #071126;">
-      <h4>📡 2. Network Installation &amp; IT Maintenance</h4>
-      <p>We design, deploy, and maintain structured physical and wireless network infrastructures for offices and commercial spaces:</p>
+    <td width="33%" valign="top" style="border: 1px solid #162E56; border-radius: 8px; background: #071126;">
+      <h4>📱 2. Cross-Platform Mobile Applications</h4>
+      <p>We develop intuitive iOS and Android mobile applications:</p>
       <ul>
-        <li><strong>Structured Network Cabling:</strong> Cat6/Cat6a data cabling, patch panel terminations, and organized server rack installations.</li>
-        <li><strong>Routing &amp; Managed Switching:</strong> Configuration of commercial routers, VLAN network segregation, and managed switches.</li>
-        <li><strong>Enterprise Wireless (Wi-Fi):</strong> High-density access point deployments with seamless roaming and guest network isolation.</li>
-        <li><strong>Preventative IT Maintenance:</strong> System health audits, network troubleshooting, hardware maintenance, and connection optimization.</li>
+        <li><strong>Cross-Platform Development:</strong> High-performance apps built on React Native and Expo.</li>
+        <li><strong>Offline-First Capabilities:</strong> Local caching and data synchronization with SQLite.</li>
+        <li><strong>Device Integration:</strong> Native location tracking, background push notifications, and camera APIs.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #162E56; border-radius: 8px; background: #071126;">
-      <h4>🛒 3. Digital Commerce Solutions</h4>
-      <p>We build end-to-end multi-vendor commerce engines that connect businesses to customers and logistics:</p>
+    <td width="33%" valign="top" style="border: 1px solid #162E56; border-radius: 8px; background: #071126;">
+      <h4>🛒 3. Digital Commerce &amp; Enterprise Solutions</h4>
+      <p>We build end-to-end multi-vendor commerce and operational business systems:</p>
       <ul>
-        <li><strong>Multi-Vendor Platforms:</strong> Unified marketplaces supporting multi-seller catalog management, order lifecycles, and buyer portals.</li>
-        <li><strong>Merchant Operations Console:</strong> Dedicated operator administration panels for product approval, order fulfillment, and metrics.</li>
-        <li><strong>Last-Mile Logistics Coordination:</strong> Courier dispatch applications and delivery rider coordination.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #162E56; border-radius: 8px; background: #071126;">
-      <h4>🛡️ 4. Business Systems &amp; Digital Solutions</h4>
-      <p>We digitize manual operational processes to increase productivity and eliminate inventory bottlenecks:</p>
-      <ul>
-        <li><strong>Stock &amp; Inventory Systems:</strong> Batch management, stock intake, threshold alerts, and automated transactional receipts.</li>
-        <li><strong>Point of Sale (POS) &amp; Cafe Systems:</strong> Order tracking, digital table tickets, and kitchen dispatch workflows.</li>
-        <li><strong>Secure Data Persistence:</strong> Automated database backups, ACID compliance, and secure user role authorization.</li>
+        <li><strong>Ariiti Market Platform:</strong> Multi-seller catalog management, order lifecycles, and buyer portals.</li>
+        <li><strong>Merchant Operations Consoles:</strong> Operator administration panels for product approval and fulfillment.</li>
+        <li><strong>Business Tools:</strong> Point of Sale (POS) tools, inventory stock management, and automated receipts.</li>
       </ul>
     </td>
   </tr>
@@ -200,8 +187,7 @@
 
 Ariiti Technologies collaborates with growing businesses, commercial organizations, startups, and institutions seeking:
 - **Custom Software Projects:** Tailored web platforms, mobile solutions, or backend system architecture.
-- **Network Installation &amp; Upgrades:** Modern structured cabling, rack installations, or managed Wi-Fi setups.
-- **Enterprise Digitization:** Migration from manual paper/spreadsheet tracking to automated inventory or POS systems.
+- **Enterprise Digitization:** Migration from manual tracking to automated inventory or POS systems.
 - **Technology Partnerships:** Joint initiatives with developers, engineering teams, and digital service providers.
 
 <br/>
@@ -226,7 +212,7 @@ Ariiti Technologies collaborates with growing businesses, commercial organizatio
 
 <br/><br/>
 
-> *"Empowering businesses with dependable software engineering and resilient network infrastructure."* ⚡
+> *"Empowering businesses with dependable software engineering and resilient digital solutions."* ⚡
 
 <br/>
 

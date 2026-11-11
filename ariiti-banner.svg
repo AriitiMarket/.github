@@ -155,33 +155,33 @@
   <g text-anchor="middle" transform="translate(450, 0)">
     <!-- Small Eyebrow Tag -->
     <g transform="translate(0, 78)">
-      <rect x="-205" y="-14" width="410" height="22" rx="11" fill="#09142A" stroke="#162E56" stroke-width="1" />
-      <text y="1.5" class="eyebrow">✦ SOFTWARE • IT NETWORKING • DIGITAL COMMERCE ✦</text>
+      <rect x="-215" y="-14" width="430" height="22" rx="11" fill="#09142A" stroke="#162E56" stroke-width="1" />
+      <text y="1.5" class="eyebrow">✦ SOFTWARE ENGINEERING • MOBILE • DIGITAL COMMERCE ✦</text>
     </g>
 
     <!-- Company Name -->
     <text y="130" class="title-text">ARIITI TECHNOLOGIES</text>
 
     <!-- Mission Subtitle -->
-    <text y="166" class="sub-role">Building Scalable Digital Products, Enterprise Systems &amp; Modern IT Infrastructure</text>
+    <text y="166" class="sub-role">Building Scalable Digital Products, Enterprise Systems &amp; Modern Applications</text>
 
     <!-- Service Pillar Badges -->
-    <g transform="translate(-330, 196)">
-      <!-- Pillar 1: Software & Mobile Development -->
+    <g transform="translate(-320, 196)">
+      <!-- Pillar 1: Full-Stack Web Development -->
       <g transform="translate(0, 0)">
-        <rect width="200" height="28" rx="8" fill="#0A1630" stroke="#1E3A6E" stroke-width="1" />
+        <rect width="195" height="28" rx="8" fill="#0A1630" stroke="#1E3A6E" stroke-width="1" />
         <circle cx="16" cy="14" r="4" fill="#00D2FF" />
-        <text x="30" y="18" class="badge-label">Software &amp; Mobile Dev</text>
+        <text x="30" y="18" class="badge-label">Full-Stack Software Dev</text>
       </g>
-      <!-- Pillar 2: Network Infrastructure -->
-      <g transform="translate(220, 0)">
-        <rect width="210" height="28" rx="8" fill="#0A1630" stroke="#1E3A6E" stroke-width="1" />
+      <!-- Pillar 2: Cross-Platform Mobile -->
+      <g transform="translate(215, 0)">
+        <rect width="200" height="28" rx="8" fill="#0A1630" stroke="#1E3A6E" stroke-width="1" />
         <circle cx="16" cy="14" r="4" fill="#38BDF8" />
-        <text x="30" y="18" class="badge-label">Network &amp; IT Infrastructure</text>
+        <text x="30" y="18" class="badge-label">Mobile App Engineering</text>
       </g>
       <!-- Pillar 3: Digital Commerce -->
-      <g transform="translate(450, 0)">
-        <rect width="210" height="28" rx="8" fill="#0A1630" stroke="#1E3A6E" stroke-width="1" />
+      <g transform="translate(435, 0)">
+        <rect width="205" height="28" rx="8" fill="#0A1630" stroke="#1E3A6E" stroke-width="1" />
         <circle cx="16" cy="14" r="4" fill="#6366F1" />
         <text x="30" y="18" class="badge-label">Digital Commerce &amp; POS</text>
       </g>
