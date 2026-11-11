@@ -202,6 +202,33 @@ Ariiti Technologies collaborates with growing businesses, commercial organizatio
 
 <br/>
 
+<table width="100%" border="0" cellpadding="12" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #162E56; border-radius: 8px; background: #071126;">
+      <h4 style="margin: 0 0 8px; color: #1877F2;">📘 Official Facebook Page</h4>
+      <p style="margin: 0 0 10px; color: #CBD5E1; font-size: 13px;">Follow our official Facebook presence for product releases, company news, and engineering updates:</p>
+      <p style="margin: 0 0 8px;">
+        <a href="https://www.facebook.com/profile.php?id=61596506150647">
+          <img src="https://img.shields.io/badge/Facebook-Ariiti_Technologies-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=071126" alt="Ariiti Technologies on Facebook" />
+        </a>
+      </p>
+      <p style="margin: 0;"><a href="https://www.facebook.com/profile.php?id=61596506150647"><code>facebook.com/profile.php?id=61596506150647</code> ➔</a></p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #162E56; border-radius: 8px; background: #071126;">
+      <h4 style="margin: 0 0 8px; color: #229ED9;">💬 Official Telegram Channel</h4>
+      <p style="margin: 0 0 10px; color: #CBD5E1; font-size: 13px;">Join our official Telegram community for direct announcements, real-time broadcasts, and community updates:</p>
+      <p style="margin: 0 0 8px;">
+        <a href="https://t.me/aritiiteck">
+          <img src="https://img.shields.io/badge/Telegram-@aritiiteck-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=071126" alt="Ariiti Technologies on Telegram" />
+        </a>
+      </p>
+      <p style="margin: 0;"><a href="https://t.me/aritiiteck"><code>t.me/aritiiteck</code> ➔</a></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 [![Facebook Official](https://img.shields.io/badge/FACEBOOK-Ariiti_Technologies-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=071126)](https://www.facebook.com/profile.php?id=61596506150647)
 &nbsp;&nbsp;
 [![Telegram Channel](https://img.shields.io/badge/TELEGRAM-@aritiiteck-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=071126)](https://t.me/aritiiteck)
