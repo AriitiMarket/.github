@@ -6,8 +6,8 @@
 <div align="center">
 
 <!-- OFFICIAL ORGANIZATION BANNER -->
-<a href="https://github.com/AriitiMarket">
-  <img src="https://raw.githubusercontent.com/AriitiMarket/.github/main/ariiti-banner.svg" width="100%" alt="Ariiti Technologies — Official Organization Banner" />
+<a href="https://github.com/AriitiTech">
+  <img src="https://raw.githubusercontent.com/AriitiTech/.github/main/ariiti-banner.svg" width="100%" alt="Ariiti Technologies — Official Organization Banner" />
 </a>
 
 <br/><br/>
@@ -22,7 +22,7 @@
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-@aritiiteck-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=071126)](https://t.me/aritiiteck)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-AriitiMarket-00D2FF?style=for-the-badge&logo=github&logoColor=black&labelColor=071126)](https://github.com/AriitiMarket)
+[![GitHub](https://img.shields.io/badge/GitHub-AriitiTech-00D2FF?style=for-the-badge&logo=github&logoColor=black&labelColor=071126)](https://github.com/AriitiTech)
 &nbsp;
 [![Email Contact](https://img.shields.io/badge/Email-Inquire_Directly-0066FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071126)](mailto:yihunebelay859@gmail.com)
 
@@ -37,7 +37,7 @@
 <table width="100%" border="0" cellpadding="12" cellspacing="0">
   <tr>
     <td width="160" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/AriitiMarket/.github/main/ariiti-logo.svg" width="140" height="140" alt="Ariiti Technologies Logo" />
+      <img src="https://raw.githubusercontent.com/AriitiTech/.github/main/ariiti-logo.svg" width="140" height="140" alt="Ariiti Technologies Logo" />
     </td>
     <td width="20"></td>
     <td valign="top">
@@ -58,7 +58,7 @@
 ### 🛠️ &nbsp;Core Business Pillars & Capabilities
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AriitiMarket/.github/main/services.svg" width="100%" alt="Ariiti Technologies Services" />
+  <img src="https://raw.githubusercontent.com/AriitiTech/.github/main/services.svg" width="100%" alt="Ariiti Technologies Services" />
 </div>
 
 <br/>
@@ -134,10 +134,10 @@
 ```
 
 #### Key Repositories in the Ariiti Market Ecosystem:
-- 📦 [Ariiti-Market-Project-Submission](https://github.com/AriitiMarket/Ariiti-Market-Project-Submission) — Central project hub, architecture blueprint, and system documentation.
-- 🖥️ [Aritii-admin-web](https://github.com/AriitiMarket/Aritii-admin-web) — Modern enterprise operator and platform management console.
-- 🌐 [aritii-seller-buyer-web](https://github.com/AriitiMarket/aritii-seller-buyer-web) — Multi-seller marketplace frontend for buyers and merchants.
-- ⚙️ [backend-micro](https://github.com/AriitiMarket/backend-micro) — Polyglot persistence microservices infrastructure (PostgreSQL, MongoDB, Redis).
+- 📦 [Ariiti-Market-Project-Submission](https://github.com/AriitiTech/Ariiti-Market-Project-Submission) — Central project hub, architecture blueprint, and system documentation.
+- 🖥️ [Aritii-admin-web](https://github.com/AriitiTech/Aritii-admin-web) — Modern enterprise operator and platform management console.
+- 🌐 [aritii-seller-buyer-web](https://github.com/AriitiTech/aritii-seller-buyer-web) — Multi-seller marketplace frontend for buyers and merchants.
+- ⚙️ [backend-micro](https://github.com/AriitiTech/backend-micro) — Polyglot persistence microservices infrastructure (PostgreSQL, MongoDB, Redis).
 
 <br/>
 
@@ -206,7 +206,7 @@ Ariiti Technologies collaborates with growing businesses, commercial organizatio
 &nbsp;&nbsp;
 [![Telegram Channel](https://img.shields.io/badge/TELEGRAM-@aritiiteck-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=071126)](https://t.me/aritiiteck)
 &nbsp;&nbsp;
-[![GitHub Organization](https://img.shields.io/badge/GITHUB-AriitiMarket-00D2FF?style=for-the-badge&logo=github&logoColor=black&labelColor=071126)](https://github.com/AriitiMarket)
+[![GitHub Organization](https://img.shields.io/badge/GITHUB-AriitiTech-00D2FF?style=for-the-badge&logo=github&logoColor=black&labelColor=071126)](https://github.com/AriitiTech)
 &nbsp;&nbsp;
 [![Direct Email](https://img.shields.io/badge/EMAIL-yihunebelay859@gmail.com-0066FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071126)](mailto:yihunebelay859@gmail.com)
 
