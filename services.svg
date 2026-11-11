@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="280" viewBox="0 0 860 280" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="serv-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050B18" />
+      <stop offset="50%" stop-color="#08142A" />
+      <stop offset="100%" stop-color="#040914" />
+    </linearGradient>
+
+    <!-- Card Borders -->
+    <linearGradient id="card-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D2FF" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#0066FF" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0.6" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .header-title {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      fill: #00D2FF;
+    }
+    .card-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      fill: #FFFFFF;
+    }
+    .card-desc {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 11px;
+      font-weight: 400;
+      fill: #94A3B8;
+      line-height: 1.5;
+    }
+    .tag-badge {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 9.5px;
+      font-weight: 600;
+      fill: #38BDF8;
+    }
+  </style>
+
+  <!-- Base Container -->
+  <rect width="860" height="280" rx="14" fill="url(#serv-bg)" />
+  <rect x="1" y="1" width="858" height="278" rx="13" fill="none" stroke="#162E56" stroke-width="1.5" />
+
+  <!-- Top Strip -->
+  <g transform="translate(30, 28)">
+    <circle cx="0" cy="0" r="4" fill="#00D2FF" />
+    <text x="14" y="3.5" class="header-title">CORE BUSINESS PILLARS &amp; TECHNOLOGY CAPABILITIES</text>
+  </g>
+
+  <!-- 4 Service Cards Grid (2x2) -->
+  <g transform="translate(30, 52)">
+    
+    <!-- CARD 1: Software & Mobile Engineering -->
+    <g transform="translate(0, 0)">
+      <rect width="385" height="96" rx="8" fill="#0A1630" stroke="url(#card-border)" stroke-width="1" />
+      <g transform="translate(18, 22)">
+        <text class="card-title">💻  Custom Software &amp; Mobile Development</text>
+        <text y="24" class="card-desc">End-to-end full-stack web platforms, cross-platform mobile apps</text>
+        <text y="40" class="card-desc">(iOS &amp; Android), high-throughput REST APIs, and microservices.</text>
+        <text y="60" class="tag-badge">Next.js • React Native • NestJS • Django • TypeScript</text>
+      </g>
+    </g>
+
+    <!-- CARD 2: Network Infrastructure & Maintenance -->
+    <g transform="translate(415, 0)">
+      <rect width="385" height="96" rx="8" fill="#0A1630" stroke="url(#card-border)" stroke-width="1" />
+      <g transform="translate(18, 22)">
+        <text class="card-title">📡  Network Installation &amp; IT Infrastructure</text>
+        <text y="24" class="card-desc">Structured network cabling, router and managed switch setups,</text>
+        <text y="40" class="card-desc">enterprise Wi-Fi deployment, server rack cabling, and maintenance.</text>
+        <text y="60" class="tag-badge">Structured Cabling • LAN / WLAN • Rack Systems • VPNs</text>
+      </g>
+    </g>
+
+    <!-- CARD 3: Digital Commerce & Marketplaces -->
+    <g transform="translate(0, 112)">
+      <rect width="385" height="96" rx="8" fill="#0A1630" stroke="url(#card-border)" stroke-width="1" />
+      <g transform="translate(18, 22)">
+        <text class="card-title">🛒  Digital Commerce &amp; Ecosystems</text>
+        <text y="24" class="card-desc">Multi-seller e-commerce marketplaces, merchant inventory control,</text>
+        <text y="40" class="card-desc">rider dispatch coordination, payment gateways, and POS solutions.</text>
+        <text y="60" class="tag-badge">Ariiti Market • Multi-Vendor • Courier Dispatch • POS</text>
+      </g>
+    </g>
+
+    <!-- CARD 4: Enterprise Solutions & Tech Maintenance -->
+    <g transform="translate(415, 112)">
+      <rect width="385" height="96" rx="8" fill="#0A1630" stroke="url(#card-border)" stroke-width="1" />
+      <g transform="translate(18, 22)">
+        <text class="card-title">🛡️  Business Technology &amp; IT Operations</text>
+        <text y="24" class="card-desc">Operational inventory systems, cafeteria POS ordering platforms,</text>
+        <text y="40" class="card-desc">relational database design, system audits, and scheduled maintenance.</text>
+        <text y="60" class="tag-badge">Stock Systems • DB Optimization • System Health • Cloud</text>
+      </g>
+    </g>
+
+  </g>
+</svg>
